@@ -31,7 +31,7 @@ This project allows you to **add, view, update, and delete patient records** fro
 ```
 Hospital-Management/
 │
-├── Main.java # Main program
+├── HospitalManagement.java # Main program
 ├── hospitaldb.sql # Database script
 ├── mysql-connector-j-x.x.x.jar # JDBC Driver
 └── README.md # Project description
